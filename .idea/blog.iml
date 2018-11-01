@@ -76,10 +76,13 @@
     <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.3.1, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.8.5, RVM: ruby-2.4.2) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="oauth (v0.5.4, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="oauth2 (v1.4.1, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="omniauth (v1.8.1, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="omniauth-facebook (v5.0.0, RVM: ruby-2.4.2) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="omniauth-oauth (v1.1.0, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="omniauth-oauth2 (v1.5.0, RVM: ruby-2.4.2) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="omniauth-twitter (v1.4.0, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v3.0.3, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v3.12.0, RVM: ruby-2.4.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.0.5, RVM: ruby-2.4.2) [gem]" level="application" />
